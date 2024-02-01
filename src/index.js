@@ -1,19 +1,11 @@
 import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
+import HomePage from "./Components/home/home";
 
-function Profile()
-{
-  return (
-    <div>
-      <img src="cao-obeso3.png" alt="Salsiha Obeso"/>
-    </div>
-  );
-}
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <h1>HELLO React MANO</h1>
-    <Profile />
+    <HomePage />
   </React.StrictMode>
 );

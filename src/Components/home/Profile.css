@@ -1,0 +1,29 @@
+header
+{
+    display: flex;
+    flex: 1;
+
+    flex-wrap: wrap;
+    justify-content: center;
+
+    border-style: solid;
+
+    margin: 1cm;
+}
+
+header > div
+{
+    text-align: center;
+    font-size: 0.75cm;
+    margin: 10px;
+    padding: 2px;
+
+    border: 2px;
+
+    font-size: 25px;
+}
+
+.Picture
+{
+    border-radius: 50%;
+}
