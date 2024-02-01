@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/static/js/main.a3b48c9a.js",
+    "main.js": "/static/js/main.e4bde0ef.js",
     "static/media/cao-obeso3.png": "/static/media/cao-obeso3.89668f0e6a0e4025f5ca.png",
     "index.html": "/index.html",
-    "main.a3b48c9a.js.map": "/static/js/main.a3b48c9a.js.map"
+    "main.e4bde0ef.js.map": "/static/js/main.e4bde0ef.js.map"
   },
   "entrypoints": [
-    "static/js/main.a3b48c9a.js"
+    "static/js/main.e4bde0ef.js"
   ]
 }
